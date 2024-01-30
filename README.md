@@ -3,6 +3,8 @@ Reflections on Reflected XSS
 
 This repository tracks real-world incidents where **[reflected XSS](https://portswigger.net/web-security/cross-site-scripting/reflected)** was exploited. PR's welcome!
 
+Reflected XSS is among the most prevalent vulnerability classes discovered during web application security testing (penetration testing, code analysis, etc.), but despite it prevalence, expolitaion of such vulnerabilities in real-world incidents seem to be rare. The goal of this repo is to support risk assessment by aggregating empirical data about incidents. 
+
 We don't track:
 
 * [Stored XSS](https://portswigger.net/web-security/cross-site-scripting/stored) casued by server-side or frontend code.
