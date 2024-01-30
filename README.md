@@ -1,5 +1,5 @@
-Reflections on Reflective XSS
-=============================
+Reflections on Reflected XSS
+============================
 
 This repository tracks real-world incidents where **[reflected XSS](https://portswigger.net/web-security/cross-site-scripting/reflected)** was exploited. PR's welcome!
 
@@ -16,6 +16,7 @@ The List
 > Combining a cross-site scripting (XSS) vulnerability with a TinyURL redirect, hackers successfully broke into the infrastructure for the open-source Apache Foundation in what is being described as a "direct, targeted attack."
 
 Reference: https://www.zdnet.com/article/apache-org-hit-by-targeted-xss-attack-passwords-compromised/ ([archived](https://web.archive.org/web/20170221223703/https://www.zdnet.com/article/apache-org-hit-by-targeted-xss-attack-passwords-compromised/))
+
 
 ### Zimbra 0-day used to target international government organizations - November, 2023.
 
